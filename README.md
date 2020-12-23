@@ -3,4 +3,4 @@
 - Activities:
   - Currently undergrad in Computer Science - University of Brasília - Brasil;
   - Interests range from Education to Machine Learning;
-  - Learning Python and C++.
+  - Learning Javascript, Python and C++.
