@@ -1,9 +1,7 @@
 ### Welcome to my profile! 👨🏻‍💻
 
 
-  - Currently undergrad in Computer Science at Cruzeiro do Sul in the 8th semester;
-  - Working as a Mobile Developer at Venturus;
-  - Interested in mobile app performance and studying Jetpack Compose;
+  - Software Engineer working in Android development since 2021. 
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
