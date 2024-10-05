@@ -1,7 +1,8 @@
 ### Welcome to my profile! 👨🏻‍💻
 
 
-  - Software Engineer working in Android development since 2021 at Venturus
+  - Software Engineer with 3+ years of experience in Android development;
+  - Experiences in Kotlin, Java, Python and C++
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
