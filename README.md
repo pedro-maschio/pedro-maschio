@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👨🏻‍💻
 
 
-  - Software Engineer with 3+ years of experience in Android development;
+  - Software Engineer with 4+ years of experience in Android development, currently working at @PagBank
   - Experienced in Kotlin, Java, Python and C++
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
